@@ -1,0 +1,83 @@
+🎮 Игра: htmf, Пак: pp9
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp9\htmf\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp9\htmf\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок: 74
+==== Скачиваем ассеты из CSS ====
+Скачан: hevletica_ed600.ttf
+Скачан: hevletica_ed900.ttf
+Скачан: hevletica_ed600it.ttf
+Скачан: hevletica_ed900it.ttf
+Скачан: CMUb-qOV.png
+Скачан: ca9dd108.png
+Скачан: bbb52a04.svg
+Скачан: 119e8125.png
+Скачан: DErNqLsl.png
+Скачан: _WuedCMZ.png
+Скачан: CkmDUoxR.png
+Скачан: DceQ0Wxt.png
+Скачан: Bi9MkGhZ.png
+Скачан: BAKT9pOJ.png
+Скачан: CCl-Eooz.png
+Скачан: tMWG7jrB.png
+Скачан: C08ICmr9.png
+Скачан: DOt9Jduf.png
+Скачан: ClvGdJoT.png
+Скачан: BU0sb9fw.png
+Скачан: fQqm5vB1.png
+Скачан: CGjiz9KE.png
+Скачан: B0c1xoTb.png
+Скачан: tUl5RtmW.png
+Скачан: 2S9L_Svw.png
+Скачан: BNBGym2a.png
+Скачан: D4gWWQeo.png
+Скачан: sZ7ZdfIT.png
+Скачан: CaRZjzJq.png
+Скачан: BZV-hXxl.png
+Скачан: BwZFyMyG.png
+Скачан: DM3GOwcH.png
+Скачан: BzlNtpr_.png
+Скачан: CoyjVDnc.png
+Скачан: e8312oJL.png
+Скачан: Mu-OK-P1.png
+Скачан: CycmydGp.png
+Скачан: FNNRfOeg.png
+Скачан: DoKsmYsV.png
+Скачан: CnzKn4e5.png
+Скачан: BbRzOfcF.png
+Скачан: o9ofsJ24.png
+Скачан: BNaZi09V.png
+Скачан: pTtNkuSn.png
+Скачан: x6gFOzCT.png
+Скачан: CwDLYfjZ.png
+Скачан: Bjj3luCm.png
+Скачан: DBNoLgi6.png
+Скачан: QYtFRlba.png
+Скачан: DYPN4GnS.png
+Скачан: WoAGAX8j.png
+Скачан: D-TTQXkV.png
+Скачан: DtfbQOYd.png
+Скачан: Bms4KTvB.png
+Скачан: K0PJOOnk.png
+Скачан: DYkiwTdS.png
+Скачан: CAPQ0Ksq.png
+Скачан: DvsmYUzO.png
+Скачан: D_paQXVy.png
+Скачан: DwXQMJJW.png
+Скачан: DJz8gCEV.png
+Скачан: 9pjnzMXk.png
+Скачан: TMm4cc5b.png
+Скачан: D6TvX2Yl.png
+Скачан: Frl0xsWU.png
+Скачан: UUrRLPEa.png
+Скачан: 1PW8i9O3.png
+Скачан: B6ih7UGj.png
+Скачан: 667Cmtrs.png
+Скачан: Bn3yxMgL.png
+Скачан: BQG05K8R.png
+Скачан: C9BjOda-.png
+Скачан: D2WVTADt.png
+Скачан: hrddKN5U.png
+✅ Готово! Все CSS-ассеты скачаны.

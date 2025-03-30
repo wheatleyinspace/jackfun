@@ -1,0 +1,145 @@
+🎮 Игра: awshirt2, Пак: pp10
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp10\awshirt2\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp10\awshirt2\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 18
+==== Скачиваем ассеты из CSS ====
+❌ CMUb-qOV.png не найден по прямому пути, пробуем через /assets/
+Скачан: CMUb-qOV.png (через /assets/)
+❌ ca9dd108.png не найден по прямому пути, пробуем через /assets/
+Скачан: ca9dd108.png (через /assets/)
+❌ bbb52a04.svg не найден по прямому пути, пробуем через /assets/
+Скачан: bbb52a04.svg (через /assets/)
+❌ 119e8125.png не найден по прямому пути, пробуем через /assets/
+Скачан: 119e8125.png (через /assets/)
+Скачан: D5b7VrIR.woff2 (прямой путь)
+Скачан: D6hPxu8t.woff2 (прямой путь)
+Скачан: BHPK9gAu.woff2 (прямой путь)
+Скачан: DF1Fm3MO.woff2 (прямой путь)
+Скачан: DISbkTGT.woff2 (прямой путь)
+❌ c651bdd8.svg не найден по прямому пути, пробуем через /assets/
+Скачан: c651bdd8.svg (через /assets/)
+❌ B_5F0GLo.svg не найден по прямому пути, пробуем через /assets/
+Скачан: B_5F0GLo.svg (через /assets/)
+❌ CpUynRTI.svg не найден по прямому пути, пробуем через /assets/
+Скачан: CpUynRTI.svg (через /assets/)
+❌ DP0Fa4vr.svg не найден по прямому пути, пробуем через /assets/
+Скачан: DP0Fa4vr.svg (через /assets/)
+❌ 21254ce4.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 21254ce4.svg (через /assets/)
+❌ 7878d478.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 7878d478.svg (через /assets/)
+❌ 55c6edbd.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 55c6edbd.svg (через /assets/)
+❌ BjN1crTP.svg не найден по прямому пути, пробуем через /assets/
+Скачан: BjN1crTP.svg (через /assets/)
+Скачан: PAJJhLM6sSoWKfWCAAwDAjgbRAAB42mNgYGBkAIIbCZo5IPrmUn0hGA0AO8EFTQAA (прямой путь)
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 54
+==== Скачиваем ассеты из script.js ====
+Скачан: /main/pp10/awshirt2/assets/BhWysX6c.wav (прямой путь)
+❌ /main/pp10/awshirt2/assets/178b8e71.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/178b8e71.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/71fc2a99.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/71fc2a99.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/DLGomgNm.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/DLGomgNm.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/B8C13_5i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/B8C13_5i.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/DaAsZ-1o.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/DaAsZ-1o.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/C0nA0hrp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/C0nA0hrp.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/_LZDgMYc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/_LZDgMYc.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/Bwlnl62i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/Bwlnl62i.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/DN8YV_ih.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/DN8YV_ih.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/Dv-2T4fF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/Dv-2T4fF.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/97266b34.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/97266b34.svg (через /assets/)
+❌ /main/pp10/awshirt2/assets/B2KCB4m7.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/B2KCB4m7.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/167db52d.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/167db52d.svg (через /assets/)
+❌ /main/pp10/awshirt2/assets/e46331a9.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/e46331a9.svg (через /assets/)
+❌ /main/pp10/awshirt2/assets/BsxvfhPY.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/BsxvfhPY.svg (через /assets/)
+❌ /main/pp10/awshirt2/assets/D5UxMnW2.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/D5UxMnW2.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/CDekNqk0.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CDekNqk0.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/D17aRa7A.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/D17aRa7A.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/ywQDsFVo.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/ywQDsFVo.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/NFEoL3Wt.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/NFEoL3Wt.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/svADwzEI.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/svADwzEI.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/B65Xkdri.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/B65Xkdri.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/CdY6VyMC.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CdY6VyMC.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/CSUFAqAs.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CSUFAqAs.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/BvyPz8bT.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/BvyPz8bT.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/Doba8pWJ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/Doba8pWJ.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/GTymTOdN.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/GTymTOdN.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/Cv0eRnqC.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/Cv0eRnqC.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/C-CYAT5F.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/C-CYAT5F.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/DErfpzmn.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/DErfpzmn.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/B2Y-I0YI.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/B2Y-I0YI.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/H_asJHUq.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/H_asJHUq.svg (через /assets/)
+❌ /main/pp10/awshirt2/assets/CbSoFQCg.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CbSoFQCg.svg (через /assets/)
+❌ /main/pp10/awshirt2/assets/DOgFN-My.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/DOgFN-My.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/CY1041jE.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CY1041jE.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/wEq3KBFy.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/wEq3KBFy.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/CSK136Nq.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CSK136Nq.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/Bp25_v_g.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/Bp25_v_g.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/BieGf_cO.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/BieGf_cO.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/BvM1cX50.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/BvM1cX50.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/DZh8xdbv.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/DZh8xdbv.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/BiHWPUQZ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/BiHWPUQZ.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/17tOhliI.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/17tOhliI.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/CDETBddV.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CDETBddV.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/DCdRy5GA.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/DCdRy5GA.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/BIrVYW7H.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/BIrVYW7H.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/CpFJiPkz.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CpFJiPkz.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/DCgHOAJp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/DCgHOAJp.png (через /assets/)
+❌ /main/pp10/awshirt2/assets/CXlUPD4o.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/awshirt2/assets/CXlUPD4o.png (через /assets/)
+Скачан: /main/pp10/awshirt2/assets/D6hPxu8t.woff2 (прямой путь)
+Скачан: /main/pp10/awshirt2/assets/BHPK9gAu.woff2 (прямой путь)
+Скачан: /main/pp10/awshirt2/assets/DF1Fm3MO.woff2 (прямой путь)
+Скачан: /main/pp10/awshirt2/assets/DISbkTGT.woff2 (прямой путь)
+✅ Готово! Все ассеты скачаны.

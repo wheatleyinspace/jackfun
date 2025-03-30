@@ -1,0 +1,23 @@
+🎮 Игра: fourbage, Пак: pp9
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp9\fourbage\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp9\fourbage\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок: 14
+==== Скачиваем ассеты из CSS ====
+Скачан: CMUb-qOV.png
+Скачан: ca9dd108.png
+Скачан: bbb52a04.svg
+Скачан: 119e8125.png
+Скачан: Dsxe4ZGH.png
+Скачан: DQXD2gWV.png
+Скачан: BULJueA_.png
+Скачан: C6DvXa4C.png
+Скачан: DBgpiw-V.png
+Скачан: BJvCZleb.woff2
+Скачан: BJmIJuPc.woff2
+Скачан: ZamYszo_.jpeg
+Скачан: DsFSwyj2.jpeg
+Скачан: Fm3m6V5r.jpeg
+✅ Готово! Все CSS-ассеты скачаны.

@@ -1,0 +1,35 @@
+🎮 Игра: range-game, Пак: pp9
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp9\range-game\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp9\range-game\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок: 26
+==== Скачиваем ассеты из CSS ====
+Скачан: CMUb-qOV.png
+Скачан: ca9dd108.png
+Скачан: bbb52a04.svg
+Скачан: 119e8125.png
+Скачан: D8oG0ek6.woff
+Скачан: vDMlJRme.otf
+Скачан: BNGqqopV.woff
+Скачан: CZuiiIn3.otf
+Скачан: Dy_xlBbx.jpg
+Скачан: B-fNkg8l.png
+Скачан: CmadQ_C3.png
+Скачан: zsLo_fin.png
+Скачан: Bgxmh_eq.png
+Скачан: CTn0pGOj.png
+Скачан: BMFTeZ6I.png
+Скачан: Br6sEdga.png
+Скачан: CaPyK7D_.png
+Скачан: yqtWSyfv.png
+Скачан: CyY5ycjt.png
+Скачан: va1pALL1.png
+Скачан: SpasFwLx.png
+Скачан: BBZirjnn.png
+Скачан: DmLGi6kr.png
+Скачан: CCusEQ79.jpg
+Скачан: BZFUrdb1.jpg
+Скачан: CAfWkFb-.jpg
+✅ Готово! Все CSS-ассеты скачаны.

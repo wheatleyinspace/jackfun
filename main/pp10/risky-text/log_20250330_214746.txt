@@ -1,0 +1,176 @@
+🎮 Игра: risky-text, Пак: pp10
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp10\risky-text\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp10\risky-text\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 11
+==== Скачиваем ассеты из CSS ====
+❌ 7f09428e.png не найден по прямому пути, пробуем через /assets/
+Скачан: 7f09428e.png (через /assets/)
+❌ ca9dd108.png не найден по прямому пути, пробуем через /assets/
+Скачан: ca9dd108.png (через /assets/)
+❌ 7d18ac0c.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 7d18ac0c.svg (через /assets/)
+❌ 119e8125.png не найден по прямому пути, пробуем через /assets/
+Скачан: 119e8125.png (через /assets/)
+Скачан: 5c93b6d0.woff (прямой путь)
+Скачан: 0f1b189d.woff (прямой путь)
+❌ 04f72f8b.png не найден по прямому пути, пробуем через /assets/
+Скачан: 04f72f8b.png (через /assets/)
+❌ 97133b1e.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 97133b1e.svg (через /assets/)
+❌ 96169e49.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 96169e49.svg (через /assets/)
+❌ f829a3f4.svg не найден по прямому пути, пробуем через /assets/
+Скачан: f829a3f4.svg (через /assets/)
+❌ 97ef6861.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 97ef6861.svg (через /assets/)
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 74
+==== Скачиваем ассеты из script.js ====
+Скачан: /main/pp10/risky-text/assets/4af6cbea.wav (прямой путь)
+❌ /main/pp10/risky-text/assets/178b8e71.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/178b8e71.png (через /assets/)
+❌ /main/pp10/risky-text/assets/71fc2a99.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/71fc2a99.png (через /assets/)
+❌ /main/pp10/risky-text/assets/ad9172fc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/ad9172fc.png (через /assets/)
+❌ /main/pp10/risky-text/assets/dc131b16.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/dc131b16.png (через /assets/)
+❌ /main/pp10/risky-text/assets/38715b18.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/38715b18.png (через /assets/)
+❌ /main/pp10/risky-text/assets/b0d7c822.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/b0d7c822.png (через /assets/)
+❌ /main/pp10/risky-text/assets/06150f24.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/06150f24.png (через /assets/)
+❌ /main/pp10/risky-text/assets/928ef0da.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/928ef0da.png (через /assets/)
+❌ /main/pp10/risky-text/assets/0bb76a2d.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/0bb76a2d.png (через /assets/)
+❌ /main/pp10/risky-text/assets/ed4469b3.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/ed4469b3.png (через /assets/)
+❌ /main/pp10/risky-text/assets/c8afd972.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/c8afd972.svg (через /assets/)
+❌ /main/pp10/risky-text/assets/images/logo.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: /main/pp10/risky-text/assets/images/logo.svg (оба пути дали 404)
+❌ /main/pp10/risky-text/assets/cc860b32.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/cc860b32.svg (через /assets/)
+❌ /main/pp10/risky-text/assets/fb6353b5.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/fb6353b5.svg (через /assets/)
+❌ /main/pp10/risky-text/assets/e8e30b03.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/e8e30b03.svg (через /assets/)
+❌ /main/pp10/risky-text/assets/9b2dfd47.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/9b2dfd47.svg (через /assets/)
+❌ /main/pp10/risky-text/assets/c7bd8c58.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/c7bd8c58.svg (через /assets/)
+❌ /main/pp10/risky-text/assets/eecbc4f7.gif не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/eecbc4f7.gif (через /assets/)
+❌ /main/pp10/risky-text/assets/30b1af61.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/30b1af61.svg (через /assets/)
+❌ /main/pp10/risky-text/assets/0b97df47.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/0b97df47.png (через /assets/)
+❌ /main/pp10/risky-text/assets/d9cee1c0.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/d9cee1c0.png (через /assets/)
+❌ /main/pp10/risky-text/assets/7eb4dab2.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/7eb4dab2.png (через /assets/)
+❌ /main/pp10/risky-text/assets/5be8cfc3.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/5be8cfc3.png (через /assets/)
+❌ /main/pp10/risky-text/assets/ac65fc96.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/ac65fc96.png (через /assets/)
+❌ /main/pp10/risky-text/assets/42ef7ce9.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/42ef7ce9.png (через /assets/)
+❌ /main/pp10/risky-text/assets/3896729f.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/3896729f.png (через /assets/)
+❌ /main/pp10/risky-text/assets/2290ed2a.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/2290ed2a.png (через /assets/)
+❌ /main/pp10/risky-text/assets/8a4760ce.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/8a4760ce.png (через /assets/)
+❌ /main/pp10/risky-text/assets/2f61b4c2.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/2f61b4c2.png (через /assets/)
+❌ /main/pp10/risky-text/assets/f43fc6df.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/f43fc6df.png (через /assets/)
+❌ /main/pp10/risky-text/assets/9229074a.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/9229074a.png (через /assets/)
+❌ /main/pp10/risky-text/assets/f48dc18e.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/f48dc18e.png (через /assets/)
+❌ /main/pp10/risky-text/assets/5eea1a60.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/5eea1a60.png (через /assets/)
+❌ /main/pp10/risky-text/assets/d8f7cf17.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/d8f7cf17.png (через /assets/)
+❌ /main/pp10/risky-text/assets/e2a2f583.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/e2a2f583.png (через /assets/)
+❌ /main/pp10/risky-text/assets/ae965e81.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/ae965e81.png (через /assets/)
+❌ /main/pp10/risky-text/assets/396ea728.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/396ea728.png (через /assets/)
+❌ /main/pp10/risky-text/assets/c8a5f2cd.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/c8a5f2cd.png (через /assets/)
+❌ /main/pp10/risky-text/assets/21965a3d.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/21965a3d.png (через /assets/)
+❌ /main/pp10/risky-text/assets/665043d8.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/665043d8.png (через /assets/)
+❌ /main/pp10/risky-text/assets/20130e0b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/20130e0b.png (через /assets/)
+❌ /main/pp10/risky-text/assets/778f99cc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/778f99cc.png (через /assets/)
+❌ /main/pp10/risky-text/assets/c1664abb.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/c1664abb.png (через /assets/)
+❌ /main/pp10/risky-text/assets/28bae2c5.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/28bae2c5.png (через /assets/)
+❌ ../assets/images/avatars/partner1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner1.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner10.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner10.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner11.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner11.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner12.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner12.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner13.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner13.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner14.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner14.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner15.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner15.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner16.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner16.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner17.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner17.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner18.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner18.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner19.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner19.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner2.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner20.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner20.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner21.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner21.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner22.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner22.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner23.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner23.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner24.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner24.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner25.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner25.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner3.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner3.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner4.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner4.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner5.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner5.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner6.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner6.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner7.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner7.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner8.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner8.png (оба пути дали 404)
+❌ ../assets/images/avatars/partner9.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/avatars/partner9.png (оба пути дали 404)
+Скачан: /main/pp10/risky-text/assets/5c93b6d0.woff (прямой путь)
+Скачан: /main/pp10/risky-text/assets/f2b8e57d.woff (прямой путь)
+Скачан: /main/pp10/risky-text/assets/12431e8e.woff (прямой путь)
+❌ /main/pp10/risky-text/assets/6cd6f235.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/risky-text/assets/6cd6f235.png (через /assets/)
+✅ Готово! Все ассеты скачаны.

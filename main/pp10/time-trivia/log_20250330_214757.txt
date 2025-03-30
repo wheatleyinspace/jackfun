@@ -1,0 +1,266 @@
+🎮 Игра: time-trivia, Пак: pp10
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp10\time-trivia\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp10\time-trivia\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 28
+==== Скачиваем ассеты из CSS ====
+❌ 7f09428e.png не найден по прямому пути, пробуем через /assets/
+Скачан: 7f09428e.png (через /assets/)
+❌ ca9dd108.png не найден по прямому пути, пробуем через /assets/
+Скачан: ca9dd108.png (через /assets/)
+❌ 7d18ac0c.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 7d18ac0c.svg (через /assets/)
+❌ 119e8125.png не найден по прямому пути, пробуем через /assets/
+Скачан: 119e8125.png (через /assets/)
+Скачан: 61099672.woff (прямой путь)
+Скачан: 3035644a.woff (прямой путь)
+❌ c536f262.png не найден по прямому пути, пробуем через /assets/
+Скачан: c536f262.png (через /assets/)
+❌ bebf33d4.png не найден по прямому пути, пробуем через /assets/
+Скачан: bebf33d4.png (через /assets/)
+❌ 526cb773.png не найден по прямому пути, пробуем через /assets/
+Скачан: 526cb773.png (через /assets/)
+❌ c085ee5c.png не найден по прямому пути, пробуем через /assets/
+Скачан: c085ee5c.png (через /assets/)
+❌ aa00a041.png не найден по прямому пути, пробуем через /assets/
+Скачан: aa00a041.png (через /assets/)
+❌ dedcd729.png не найден по прямому пути, пробуем через /assets/
+Скачан: dedcd729.png (через /assets/)
+❌ f999a333.png не найден по прямому пути, пробуем через /assets/
+Скачан: f999a333.png (через /assets/)
+❌ 7c53d442.png не найден по прямому пути, пробуем через /assets/
+Скачан: 7c53d442.png (через /assets/)
+❌ 49179d28.png не найден по прямому пути, пробуем через /assets/
+Скачан: 49179d28.png (через /assets/)
+❌ 113ce767.png не найден по прямому пути, пробуем через /assets/
+Скачан: 113ce767.png (через /assets/)
+❌ 7b0047ae.png не найден по прямому пути, пробуем через /assets/
+Скачан: 7b0047ae.png (через /assets/)
+❌ 511317bc.png не найден по прямому пути, пробуем через /assets/
+Скачан: 511317bc.png (через /assets/)
+❌ e14bf50a.png не найден по прямому пути, пробуем через /assets/
+Скачан: e14bf50a.png (через /assets/)
+❌ b56edaf8.png не найден по прямому пути, пробуем через /assets/
+Скачан: b56edaf8.png (через /assets/)
+❌ 86693719.png не найден по прямому пути, пробуем через /assets/
+Скачан: 86693719.png (через /assets/)
+❌ e70b4468.png не найден по прямому пути, пробуем через /assets/
+Скачан: e70b4468.png (через /assets/)
+❌ 4f722c97.png не найден по прямому пути, пробуем через /assets/
+Скачан: 4f722c97.png (через /assets/)
+❌ b2dc1886.png не найден по прямому пути, пробуем через /assets/
+Скачан: b2dc1886.png (через /assets/)
+❌ dbcfa8c2.png не найден по прямому пути, пробуем через /assets/
+Скачан: dbcfa8c2.png (через /assets/)
+❌ 64231f9c.png не найден по прямому пути, пробуем через /assets/
+Скачан: 64231f9c.png (через /assets/)
+❌ f54fa3b6.png не найден по прямому пути, пробуем через /assets/
+Скачан: f54fa3b6.png (через /assets/)
+❌ 4158b3ba.png не найден по прямому пути, пробуем через /assets/
+Скачан: 4158b3ba.png (через /assets/)
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 101
+==== Скачиваем ассеты из script.js ====
+❌ /main/pp10/time-trivia/assets/178b8e71.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/178b8e71.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/71fc2a99.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/71fc2a99.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/ad9172fc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/ad9172fc.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/dc131b16.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/dc131b16.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/38715b18.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/38715b18.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/b0d7c822.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/b0d7c822.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/06150f24.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/06150f24.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/928ef0da.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/928ef0da.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/0bb76a2d.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/0bb76a2d.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/ed4469b3.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/ed4469b3.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/c8afd972.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/c8afd972.svg (через /assets/)
+❌ /main/pp10/time-trivia/assets/4bbecc5d.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/4bbecc5d.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/8123a8f3.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/8123a8f3.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/67177c8e.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/67177c8e.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/7e940fb0.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/7e940fb0.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/91c3e98e.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/91c3e98e.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/4f14d9a9.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/4f14d9a9.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/19a20bff.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/19a20bff.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/2a3ca114.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/2a3ca114.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/66000a1e.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/66000a1e.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/e09cf2e8.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/e09cf2e8.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/b17fe2b7.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/b17fe2b7.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/888a21e5.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/888a21e5.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/8ce603f8.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/8ce603f8.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/c680a8bf.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/c680a8bf.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/f547398d.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/f547398d.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/7ffd58c7.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/7ffd58c7.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/15500408.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/15500408.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/8bd90225.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/8bd90225.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/a0fada73.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/a0fada73.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/b43627ab.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/b43627ab.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/8bcc1e7b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/8bcc1e7b.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/8b076adb.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/8b076adb.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/03d9fcf1.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/03d9fcf1.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/e0b1fe83.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/e0b1fe83.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/0b9b20cd.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/0b9b20cd.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/8d54f750.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/8d54f750.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/6f086a07.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/6f086a07.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/32ed001b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/32ed001b.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/b7aa0630.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/b7aa0630.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/0126bef5.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/0126bef5.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/e3a7ac1e.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/e3a7ac1e.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/d1d472a5.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/d1d472a5.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/230ee634.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/230ee634.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/233d1667.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/233d1667.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/465b6a78.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/465b6a78.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/022c4649.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/022c4649.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/a8143ab1.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/a8143ab1.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/cbc9cd3b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/cbc9cd3b.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/2d51d906.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/2d51d906.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/e00b8d0e.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/e00b8d0e.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/277bc4f1.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/277bc4f1.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/142514dc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/142514dc.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/fc4d9e74.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/fc4d9e74.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/3ca9676e.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/3ca9676e.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/aa94189f.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/aa94189f.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/ee33ec0d.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/ee33ec0d.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/6fc3b61b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/6fc3b61b.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/fa32521c.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/fa32521c.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/bd55cd4f.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/bd55cd4f.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/01227316.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/01227316.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/30017b6d.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/30017b6d.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/c6de2c41.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/c6de2c41.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/a16c94e7.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/a16c94e7.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/3d064dc3.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/3d064dc3.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/41a747d3.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/41a747d3.png (через /assets/)
+❌ /main/pp10/time-trivia/assets/525afee7.gif не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/525afee7.gif (через /assets/)
+❌ /main/pp10/time-trivia/assets/2efd8abb.gif не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/2efd8abb.gif (через /assets/)
+Скачан: /main/pp10/time-trivia/assets/61099672.woff (прямой путь)
+Скачан: /main/pp10/time-trivia/assets/3035644a.woff (прямой путь)
+❌ /main/pp10/time-trivia/assets/4cb27e6b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/time-trivia/assets/4cb27e6b.png (через /assets/)
+❌ ../assets/avatars/avatar0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar0.png (оба пути дали 404)
+❌ ../assets/avatars/avatar0_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar0_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatar0_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar0_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatar1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar1.png (оба пути дали 404)
+❌ ../assets/avatars/avatar1_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar1_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatar1_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar1_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatar2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar2.png (оба пути дали 404)
+❌ ../assets/avatars/avatar2_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar2_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatar2_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar2_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatar3.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar3.png (оба пути дали 404)
+❌ ../assets/avatars/avatar3_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar3_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatar3_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar3_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatar4.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar4.png (оба пути дали 404)
+❌ ../assets/avatars/avatar4_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar4_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatar4_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar4_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatar5.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar5.png (оба пути дали 404)
+❌ ../assets/avatars/avatar5_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar5_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatar5_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar5_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatar6.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar6.png (оба пути дали 404)
+❌ ../assets/avatars/avatar6_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar6_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatar6_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar6_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatar7.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar7.png (оба пути дали 404)
+❌ ../assets/avatars/avatar7_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar7_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatar7_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatar7_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatarGene.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatarGene.png (оба пути дали 404)
+❌ ../assets/avatars/avatarGene_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatarGene_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatarGene_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatarGene_Future.png (оба пути дали 404)
+❌ ../assets/avatars/avatarHost.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatarHost.png (оба пути дали 404)
+❌ ../assets/avatars/avatarHost_Full.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatarHost_Full.png (оба пути дали 404)
+❌ ../assets/avatars/avatarHost_Future.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/avatarHost_Future.png (оба пути дали 404)
+✅ Готово! Все ассеты скачаны.

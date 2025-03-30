@@ -1,0 +1,195 @@
+🎮 Игра: captcha, Пак: ppad
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\ppad\captcha\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\ppad\captcha\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 15
+==== Скачиваем ассеты из CSS ====
+❌ CMUb-qOV.png не найден по прямому пути, пробуем через /assets/
+Скачан: CMUb-qOV.png (через /assets/)
+❌ ca9dd108.png не найден по прямому пути, пробуем через /assets/
+Скачан: ca9dd108.png (через /assets/)
+❌ bbb52a04.svg не найден по прямому пути, пробуем через /assets/
+Скачан: bbb52a04.svg (через /assets/)
+❌ 119e8125.png не найден по прямому пути, пробуем через /assets/
+Скачан: 119e8125.png (через /assets/)
+Скачан: CSzwVOop.woff2 (прямой путь)
+Скачан: BpxRXMOw.woff2 (прямой путь)
+❌ DtuR18Jy.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: DtuR18Jy.jpg (через /assets/)
+❌ 11ed4aa2.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 11ed4aa2.svg (через /assets/)
+❌ 4bcd3206.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 4bcd3206.svg (через /assets/)
+❌ 4a8e08de.png не найден по прямому пути, пробуем через /assets/
+Скачан: 4a8e08de.png (через /assets/)
+❌ 187fb935.png не найден по прямому пути, пробуем через /assets/
+Скачан: 187fb935.png (через /assets/)
+❌ 78273ced.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 78273ced.svg (через /assets/)
+❌ 58345bde.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 58345bde.svg (через /assets/)
+❌ BinB0D4V.png не найден по прямому пути, пробуем через /assets/
+Скачан: BinB0D4V.png (через /assets/)
+❌ C5i6C6oZ.png не найден по прямому пути, пробуем через /assets/
+Скачан: C5i6C6oZ.png (через /assets/)
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 78
+==== Скачиваем ассеты из script.js ====
+Скачан: /main/ppad/captcha/assets/BhWysX6c.wav (прямой путь)
+❌ /main/ppad/captcha/assets/DLGomgNm.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DLGomgNm.png (через /assets/)
+❌ /main/ppad/captcha/assets/B8C13_5i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/B8C13_5i.png (через /assets/)
+❌ /main/ppad/captcha/assets/DaAsZ-1o.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DaAsZ-1o.png (через /assets/)
+❌ /main/ppad/captcha/assets/C0nA0hrp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/C0nA0hrp.png (через /assets/)
+❌ /main/ppad/captcha/assets/_LZDgMYc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/_LZDgMYc.png (через /assets/)
+❌ /main/ppad/captcha/assets/Bwlnl62i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/Bwlnl62i.png (через /assets/)
+❌ /main/ppad/captcha/assets/DN8YV_ih.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DN8YV_ih.png (через /assets/)
+❌ /main/ppad/captcha/assets/Dv-2T4fF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/Dv-2T4fF.png (через /assets/)
+❌ /main/ppad/captcha/assets/97266b34.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/97266b34.svg (через /assets/)
+❌ /main/ppad/captcha/assets/B0BTidLj.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/B0BTidLj.png (через /assets/)
+❌ /main/ppad/captcha/assets/B-oS51Vr.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/B-oS51Vr.png (через /assets/)
+❌ /main/ppad/captcha/assets/DaG5ADfE.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DaG5ADfE.png (через /assets/)
+❌ /main/ppad/captcha/assets/CgpunSKd.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/CgpunSKd.png (через /assets/)
+❌ /main/ppad/captcha/assets/BWi_-0hR.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/BWi_-0hR.png (через /assets/)
+❌ /main/ppad/captcha/assets/8-0wbYsu.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/8-0wbYsu.png (через /assets/)
+❌ /main/ppad/captcha/assets/BwDAt_gD.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/BwDAt_gD.png (через /assets/)
+❌ /main/ppad/captcha/assets/ChfcB5Qb.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/ChfcB5Qb.png (через /assets/)
+❌ /main/ppad/captcha/assets/Bb7nzTlz.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/Bb7nzTlz.png (через /assets/)
+❌ /main/ppad/captcha/assets/YtgJxV3H.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/YtgJxV3H.png (через /assets/)
+❌ /main/ppad/captcha/assets/Cdngkr_0.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/Cdngkr_0.png (через /assets/)
+❌ /main/ppad/captcha/assets/CWEqmyKg.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/CWEqmyKg.png (через /assets/)
+❌ /main/ppad/captcha/assets/CqBjrAdh.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/CqBjrAdh.png (через /assets/)
+❌ /main/ppad/captcha/assets/DnPF4ypL.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DnPF4ypL.png (через /assets/)
+❌ /main/ppad/captcha/assets/s2K55As7.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/s2K55As7.png (через /assets/)
+❌ /main/ppad/captcha/assets/B55FHUeQ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/B55FHUeQ.png (через /assets/)
+❌ /main/ppad/captcha/assets/CWDs6O5H.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/CWDs6O5H.png (через /assets/)
+❌ /main/ppad/captcha/assets/05BP1siz.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/05BP1siz.png (через /assets/)
+❌ /main/ppad/captcha/assets/BH_AvKbJ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/BH_AvKbJ.png (через /assets/)
+❌ /main/ppad/captcha/assets/B_A_55Qo.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/B_A_55Qo.png (через /assets/)
+❌ /main/ppad/captcha/assets/DO-L6WsX.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DO-L6WsX.png (через /assets/)
+❌ ../assets/shareables/de/0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/de/0.png (оба пути дали 404)
+❌ ../assets/shareables/de/1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/de/1.png (оба пути дали 404)
+❌ ../assets/shareables/de/2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/de/2.png (оба пути дали 404)
+❌ ../assets/shareables/en/0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/en/0.png (оба пути дали 404)
+❌ ../assets/shareables/en/1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/en/1.png (оба пути дали 404)
+❌ ../assets/shareables/en/2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/en/2.png (оба пути дали 404)
+❌ ../assets/shareables/es-XL/0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es-XL/0.png (оба пути дали 404)
+❌ ../assets/shareables/es-XL/1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es-XL/1.png (оба пути дали 404)
+❌ ../assets/shareables/es-XL/2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es-XL/2.png (оба пути дали 404)
+❌ ../assets/shareables/es/0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es/0.png (оба пути дали 404)
+❌ ../assets/shareables/es/1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es/1.png (оба пути дали 404)
+❌ ../assets/shareables/es/2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es/2.png (оба пути дали 404)
+❌ ../assets/shareables/fr/0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/fr/0.png (оба пути дали 404)
+❌ ../assets/shareables/fr/1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/fr/1.png (оба пути дали 404)
+❌ ../assets/shareables/fr/2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/fr/2.png (оба пути дали 404)
+❌ ../assets/shareables/it/0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/it/0.png (оба пути дали 404)
+❌ ../assets/shareables/it/1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/it/1.png (оба пути дали 404)
+❌ ../assets/shareables/it/2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/it/2.png (оба пути дали 404)
+❌ ../assets/shareables/pt-BR/0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/pt-BR/0.png (оба пути дали 404)
+❌ ../assets/shareables/pt-BR/1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/pt-BR/1.png (оба пути дали 404)
+❌ ../assets/shareables/pt-BR/2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/pt-BR/2.png (оба пути дали 404)
+❌ let-me-finish.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: let-me-finish.png (оба пути дали 404)
+❌ /main/ppad/captcha/assets/DembzJX4.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DembzJX4.png (через /assets/)
+❌ /main/ppad/captcha/assets/Py_Os4nC.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/Py_Os4nC.png (через /assets/)
+❌ /main/ppad/captcha/assets/BgRVPHTW.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/BgRVPHTW.png (через /assets/)
+❌ /main/ppad/captcha/assets/DDj4l_Bh.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DDj4l_Bh.png (через /assets/)
+❌ /main/ppad/captcha/assets/BvnHs8Vn.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/BvnHs8Vn.png (через /assets/)
+❌ /main/ppad/captcha/assets/euUDaTPS.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/euUDaTPS.png (через /assets/)
+❌ /main/ppad/captcha/assets/DALnX83A.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/DALnX83A.png (через /assets/)
+❌ /main/ppad/captcha/assets/BtfBB2-Q.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/BtfBB2-Q.png (через /assets/)
+❌ /main/ppad/captcha/assets/209320ca.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/209320ca.png (через /assets/)
+❌ /main/ppad/captcha/assets/CJ8LUb3Y.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/CJ8LUb3Y.png (через /assets/)
+❌ /main/ppad/captcha/assets/D21S9xYH.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/D21S9xYH.png (через /assets/)
+❌ /main/ppad/captcha/assets/fOQEQ-3k.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/fOQEQ-3k.png (через /assets/)
+❌ /main/ppad/captcha/assets/Djd4E2b5.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/Djd4E2b5.png (через /assets/)
+❌ /main/ppad/captcha/assets/d317bc43.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/d317bc43.svg (через /assets/)
+❌ /main/ppad/captcha/assets/CuONZUsC.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/captcha/assets/CuONZUsC.png (через /assets/)
+❌ ../assets/avatars/0.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/0.png (оба пути дали 404)
+❌ ../assets/avatars/1.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/1.png (оба пути дали 404)
+❌ ../assets/avatars/2.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/2.png (оба пути дали 404)
+❌ ../assets/avatars/3.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/3.png (оба пути дали 404)
+❌ ../assets/avatars/4.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/4.png (оба пути дали 404)
+❌ ../assets/avatars/5.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/5.png (оба пути дали 404)
+❌ ../assets/avatars/6.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/6.png (оба пути дали 404)
+❌ ../assets/avatars/7.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/7.png (оба пути дали 404)
+❌ ../assets/avatars/8.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/8.png (оба пути дали 404)
+❌ ../assets/avatars/9.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/avatars/9.png (оба пути дали 404)
+✅ Готово! Все ассеты скачаны.

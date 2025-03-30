@@ -1,0 +1,260 @@
+🎮 Игра: triviadeath2, Пак: tjsp
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\tjsp\triviadeath2\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\tjsp\triviadeath2\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 42
+==== Скачиваем ассеты из CSS ====
+❌ 7f09428e.png не найден по прямому пути, пробуем через /assets/
+Скачан: 7f09428e.png (через /assets/)
+❌ 7d18ac0c.svg не найден по прямому пути, пробуем через /assets/
+Скачан: 7d18ac0c.svg (через /assets/)
+❌ 92bb55df.png не найден по прямому пути, пробуем через /assets/
+Скачан: 92bb55df.png (через /assets/)
+❌ 9499bdb6.png не найден по прямому пути, пробуем через /assets/
+Скачан: 9499bdb6.png (через /assets/)
+❌ f3bfb908.png не найден по прямому пути, пробуем через /assets/
+Скачан: f3bfb908.png (через /assets/)
+❌ b66096f0.png не найден по прямому пути, пробуем через /assets/
+Скачан: b66096f0.png (через /assets/)
+❌ 1ebdc7b6.png не найден по прямому пути, пробуем через /assets/
+Скачан: 1ebdc7b6.png (через /assets/)
+❌ ef060c55.png не найден по прямому пути, пробуем через /assets/
+Скачан: ef060c55.png (через /assets/)
+❌ b457c70f.png не найден по прямому пути, пробуем через /assets/
+Скачан: b457c70f.png (через /assets/)
+❌ 207a450c.png не найден по прямому пути, пробуем через /assets/
+Скачан: 207a450c.png (через /assets/)
+❌ 683ff2d8.png не найден по прямому пути, пробуем через /assets/
+Скачан: 683ff2d8.png (через /assets/)
+❌ 92596860.png не найден по прямому пути, пробуем через /assets/
+Скачан: 92596860.png (через /assets/)
+❌ 8a459cf3.png не найден по прямому пути, пробуем через /assets/
+Скачан: 8a459cf3.png (через /assets/)
+❌ 2c0a3b97.png не найден по прямому пути, пробуем через /assets/
+Ошибка при скачивании 2c0a3b97.png: HTTPSConnectionPool(host='jackbox.fun', port=443): Read timed out. (read timeout=10)
+❌ b07a7dfb.png не найден по прямому пути, пробуем через /assets/
+Скачан: b07a7dfb.png (через /assets/)
+❌ fe47e660.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: fe47e660.jpg (через /assets/)
+❌ 02a9aed5.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: 02a9aed5.jpg (через /assets/)
+❌ cc9f2781.png не найден по прямому пути, пробуем через /assets/
+Скачан: cc9f2781.png (через /assets/)
+❌ 392ebe7b.png не найден по прямому пути, пробуем через /assets/
+Скачан: 392ebe7b.png (через /assets/)
+❌ 43442ab0.png не найден по прямому пути, пробуем через /assets/
+Скачан: 43442ab0.png (через /assets/)
+❌ 6ceb0a55.png не найден по прямому пути, пробуем через /assets/
+Скачан: 6ceb0a55.png (через /assets/)
+❌ 965651ba.png не найден по прямому пути, пробуем через /assets/
+Скачан: 965651ba.png (через /assets/)
+❌ 76ee71b2.png не найден по прямому пути, пробуем через /assets/
+Скачан: 76ee71b2.png (через /assets/)
+❌ 5134e735.png не найден по прямому пути, пробуем через /assets/
+Скачан: 5134e735.png (через /assets/)
+Скачан: f0c06749.woff2 (прямой путь)
+Скачан: b8a8ae34.woff (прямой путь)
+Скачан: 34416ca6.woff (прямой путь)
+Скачан: 3ef0aaa7.woff (прямой путь)
+❌ e2661eb9.png не найден по прямому пути, пробуем через /assets/
+Скачан: e2661eb9.png (через /assets/)
+❌ b4833bf8.png не найден по прямому пути, пробуем через /assets/
+Скачан: b4833bf8.png (через /assets/)
+❌ 625bf472.png не найден по прямому пути, пробуем через /assets/
+Скачан: 625bf472.png (через /assets/)
+❌ db1f7f42.png не найден по прямому пути, пробуем через /assets/
+Скачан: db1f7f42.png (через /assets/)
+❌ 4ba450c0.png не найден по прямому пути, пробуем через /assets/
+Скачан: 4ba450c0.png (через /assets/)
+❌ 76699f77.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: 76699f77.jpg (через /assets/)
+❌ 575ec97c.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: 575ec97c.jpg (через /assets/)
+❌ 99a113fd.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: 99a113fd.jpg (через /assets/)
+❌ 734d5dcd.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: 734d5dcd.jpg (через /assets/)
+❌ b5f2ac3c.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: b5f2ac3c.jpg (через /assets/)
+❌ b02957c2.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: b02957c2.jpg (через /assets/)
+❌ 1a5b4b33.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: 1a5b4b33.jpg (через /assets/)
+❌ d3342f9c.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: d3342f9c.jpg (через /assets/)
+❌ d593eb4c.jpg не найден по прямому пути, пробуем через /assets/
+Скачан: d593eb4c.jpg (через /assets/)
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 84
+==== Скачиваем ассеты из script.js ====
+❌ main/tjsp/triviadeath2/assets/ad9172fc.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/ad9172fc.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/dc131b16.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/dc131b16.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/38715b18.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/38715b18.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/b0d7c822.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/b0d7c822.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/06150f24.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/06150f24.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/928ef0da.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/928ef0da.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/0bb76a2d.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/0bb76a2d.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/ed4469b3.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/ed4469b3.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/c8afd972.svg не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/c8afd972.svg (через /assets/)
+❌ main/tjsp/triviadeath2/assets/842acd3b.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/842acd3b.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/8ecc9c6c.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/8ecc9c6c.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/6ca78177.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/6ca78177.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/9a459813.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/9a459813.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/a42ff1c7.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/a42ff1c7.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/e1d4431a.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/e1d4431a.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/bd5fbce4.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/bd5fbce4.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/97eb0441.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/97eb0441.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/2588d464.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/2588d464.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/67587447.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/67587447.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/dcd7dbfe.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/dcd7dbfe.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/00f7cedd.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/00f7cedd.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/524e39b4.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/524e39b4.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/2f8f4980.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/2f8f4980.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/9499bdb6.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/9499bdb6.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/f3bfb908.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/f3bfb908.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/b66096f0.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/b66096f0.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/1ebdc7b6.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/1ebdc7b6.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/b902c525.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/b902c525.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/19e8fba3.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/19e8fba3.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/4d4e3a8b.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/4d4e3a8b.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/79858ba4.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/79858ba4.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/0329e0aa.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/0329e0aa.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/d3e261c7.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/d3e261c7.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/2cb53985.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/2cb53985.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/280baf4a.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/280baf4a.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/a9d37581.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/a9d37581.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/e90ef86e.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/e90ef86e.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/9d627721.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/9d627721.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/86e051d7.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/86e051d7.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/48d11e4f.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/48d11e4f.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/14961159.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/14961159.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/f0cb990c.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/f0cb990c.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/7993a36b.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/7993a36b.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/506af504.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/506af504.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/acb0415e.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/acb0415e.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/d9e101c2.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/d9e101c2.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/1bbd7b50.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/1bbd7b50.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/bfe5fab1.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/bfe5fab1.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/00056d30.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/00056d30.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/7d63f8a8.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/7d63f8a8.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/86266733.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/86266733.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/0659fffd.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/0659fffd.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/7df324a7.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/7df324a7.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/9dcd81f1.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/9dcd81f1.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/5349d613.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/5349d613.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/1d56ff11.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/1d56ff11.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/6bb24164.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/6bb24164.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/738ac0eb.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/738ac0eb.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/788ab1b3.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/788ab1b3.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/5603f983.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/5603f983.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/f466adbf.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/f466adbf.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/83361bc0.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/83361bc0.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/f1fd48bc.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/f1fd48bc.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/100d38b1.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/100d38b1.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/5adeb1a7.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/5adeb1a7.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/0f728590.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/0f728590.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/df59ed97.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/df59ed97.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/91a09f54.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/91a09f54.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/30f0b93b.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/30f0b93b.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/fc530159.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/fc530159.png (через /assets/)
+❌ ../assets/chips/blue.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/chips/blue.png (оба пути дали 404)
+❌ ../assets/chips/gray.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/chips/gray.png (оба пути дали 404)
+❌ ../assets/chips/green.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/chips/green.png (оба пути дали 404)
+❌ ../assets/chips/orange.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/chips/orange.png (оба пути дали 404)
+❌ ../assets/chips/pink.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/chips/pink.png (оба пути дали 404)
+❌ ../assets/chips/purple.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/chips/purple.png (оба пути дали 404)
+❌ ../assets/chips/red.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/chips/red.png (оба пути дали 404)
+❌ ../assets/chips/yellow.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/chips/yellow.png (оба пути дали 404)
+❌ main/tjsp/triviadeath2/assets/25502c8e.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/25502c8e.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/ae40d6a8.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/ae40d6a8.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/72e5ed41.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/72e5ed41.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/f12a584c.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/f12a584c.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/004b5884.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/004b5884.png (через /assets/)
+❌ main/tjsp/triviadeath2/assets/1a602b87.png не найден по прямому пути, пробуем через /assets/
+Скачан: main/tjsp/triviadeath2/assets/1a602b87.png (через /assets/)
+✅ Готово! Все ассеты скачаны.

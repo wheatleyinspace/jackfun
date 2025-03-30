@@ -1,0 +1,164 @@
+🎮 Игра: bigsurvey, Пак: standalone
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\standalone\bigsurvey\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\standalone\bigsurvey\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 13
+==== Скачиваем ассеты из CSS ====
+❌ CMUb-qOV.png не найден по прямому пути, пробуем через /assets/
+Скачан: CMUb-qOV.png (через /assets/)
+❌ ca9dd108.png не найден по прямому пути, пробуем через /assets/
+Скачан: ca9dd108.png (через /assets/)
+❌ bbb52a04.svg не найден по прямому пути, пробуем через /assets/
+Скачан: bbb52a04.svg (через /assets/)
+❌ 119e8125.png не найден по прямому пути, пробуем через /assets/
+Скачан: 119e8125.png (через /assets/)
+Скачан: CocogoosePro-Bold.woff2 (прямой путь)
+Скачан: CocogoosePro-Light.woff2 (прямой путь)
+Скачан: Inter-Regular.ttf (прямой путь)
+Скачан: Inter-Italic.ttf (прямой путь)
+Скачан: PAJJhLM6sSoWKfWCAAwDAjgbRAAB42mNgYGBkAIIbCZo5IPrmUn0hGA0AO8EFTQAA (прямой путь)
+Скачан: DE6Agdjf.woff2 (прямой путь)
+Скачан: CnbhbSky.woff2 (прямой путь)
+Скачан: c8O0ljhh.ttf (прямой путь)
+Скачан: B-9PvMw6.ttf (прямой путь)
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 69
+==== Скачиваем ассеты из script.js ====
+Скачан: /main/standalone/bigsurvey/assets/BhWysX6c.wav (прямой путь)
+❌ /main/standalone/bigsurvey/assets/178b8e71.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/178b8e71.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/71fc2a99.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/71fc2a99.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/DLGomgNm.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/DLGomgNm.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/B8C13_5i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/B8C13_5i.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/DaAsZ-1o.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/DaAsZ-1o.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/C0nA0hrp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/C0nA0hrp.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/_LZDgMYc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/_LZDgMYc.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/Bwlnl62i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/Bwlnl62i.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/DN8YV_ih.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/DN8YV_ih.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/Dv-2T4fF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/Dv-2T4fF.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/97266b34.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/97266b34.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/Bi52R0kv.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/Bi52R0kv.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/658e98cd.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/658e98cd.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/1807c6d7.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/1807c6d7.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/ed4c6802.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/ed4c6802.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/31e4ddda.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/31e4ddda.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/9c9ef116.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/9c9ef116.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/a23895ae.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/a23895ae.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/d490bbc2.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/d490bbc2.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/e45d3762.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/e45d3762.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/bef9bcc4.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/bef9bcc4.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/0cacfd42.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/0cacfd42.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/0016109a.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/0016109a.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/4bc07c3f.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/4bc07c3f.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/41faee8c.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/41faee8c.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/e0de8113.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/e0de8113.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/c72e90fc.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/c72e90fc.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/7331878f.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/7331878f.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/f19e2928.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/f19e2928.svg (через /assets/)
+❌ ../assets/format-icons/BetterOrWorse-color.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/BetterOrWorse-color.svg (оба пути дали 404)
+❌ ../assets/format-icons/Bounce-color.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/Bounce-color.svg (оба пути дали 404)
+❌ ../assets/format-icons/HighLow-color.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/HighLow-color.svg (оба пути дали 404)
+❌ ../assets/format-icons/HorseRace-color.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/HorseRace-color.svg (оба пути дали 404)
+❌ ../assets/format-icons/Random-color.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/Random-color.svg (оба пути дали 404)
+❌ ../assets/format-icons/Speed-color.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/Speed-color.svg (оба пути дали 404)
+❌ ../assets/format-icons/TicTacToe-color.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/TicTacToe-color.svg (оба пути дали 404)
+❌ ../assets/format-icons/Tour-color.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/Tour-color.svg (оба пути дали 404)
+❌ ../assets/format-icons/BetterOrWorse.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/BetterOrWorse.svg (оба пути дали 404)
+❌ ../assets/format-icons/Bounce.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/Bounce.svg (оба пути дали 404)
+❌ ../assets/format-icons/HighLow.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/HighLow.svg (оба пути дали 404)
+❌ ../assets/format-icons/HorseRace.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/HorseRace.svg (оба пути дали 404)
+❌ ../assets/format-icons/Random.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/Random.svg (оба пути дали 404)
+❌ ../assets/format-icons/Speed.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/Speed.svg (оба пути дали 404)
+❌ ../assets/format-icons/TicTacToe.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/TicTacToe.svg (оба пути дали 404)
+❌ ../assets/format-icons/Tour.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-icons/Tour.svg (оба пути дали 404)
+❌ /main/standalone/bigsurvey/assets/8297ccaf.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/8297ccaf.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/145b08a0.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/145b08a0.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/1e11e19d.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/1e11e19d.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/1e1fa7af.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/1e1fa7af.svg (через /assets/)
+❌ /main/standalone/bigsurvey/assets/06e3b7cd.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/06e3b7cd.svg (через /assets/)
+Скачан: /main/standalone/bigsurvey/assets/DE6Agdjf.woff2 (прямой путь)
+Скачан: /main/standalone/bigsurvey/assets/CnbhbSky.woff2 (прямой путь)
+❌ /main/standalone/bigsurvey/assets/Ckf7Lh7h.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/Ckf7Lh7h.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/B_vvBtCI.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/B_vvBtCI.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/BBrq4JTx.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/BBrq4JTx.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/CAtiOAXi.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/CAtiOAXi.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/Cg48r34v.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/Cg48r34v.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/np1vBO0j.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/np1vBO0j.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/D-pw66mj.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/D-pw66mj.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/BH6-eVIf.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/BH6-eVIf.png (через /assets/)
+❌ /main/standalone/bigsurvey/assets/DnYH_kSq.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/standalone/bigsurvey/assets/DnYH_kSq.png (через /assets/)
+❌ ../assets/format-shareable/modeIcon_BetterOrWorse.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-shareable/modeIcon_BetterOrWorse.png (оба пути дали 404)
+❌ ../assets/format-shareable/modeIcon_Bounce.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-shareable/modeIcon_Bounce.png (оба пути дали 404)
+❌ ../assets/format-shareable/modeIcon_HighLow.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-shareable/modeIcon_HighLow.png (оба пути дали 404)
+❌ ../assets/format-shareable/modeIcon_HorseRace.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-shareable/modeIcon_HorseRace.png (оба пути дали 404)
+❌ ../assets/format-shareable/modeIcon_Speed.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-shareable/modeIcon_Speed.png (оба пути дали 404)
+❌ ../assets/format-shareable/modeIcon_TicTacToe.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-shareable/modeIcon_TicTacToe.png (оба пути дали 404)
+❌ ../assets/format-shareable/modeIcon_Tour.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/format-shareable/modeIcon_Tour.png (оба пути дали 404)
+✅ Готово! Все ассеты скачаны.

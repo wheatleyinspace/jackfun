@@ -1,0 +1,86 @@
+🎮 Игра: us-them, Пак: pp10
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp10\us-them\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\pp10\us-them\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 7
+==== Скачиваем ассеты из CSS ====
+❌ CMUb-qOV.png не найден по прямому пути, пробуем через /assets/
+Скачан: CMUb-qOV.png (через /assets/)
+❌ ca9dd108.png не найден по прямому пути, пробуем через /assets/
+Скачан: ca9dd108.png (через /assets/)
+❌ bbb52a04.svg не найден по прямому пути, пробуем через /assets/
+Скачан: bbb52a04.svg (через /assets/)
+❌ 119e8125.png не найден по прямому пути, пробуем через /assets/
+Скачан: 119e8125.png (через /assets/)
+Скачан: BKTVHo8e.otf (прямой путь)
+Скачан: BVEoWtHq.otf (прямой путь)
+Скачан: q13NfCTY.ttf (прямой путь)
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 33
+==== Скачиваем ассеты из script.js ====
+Скачан: /main/pp10/us-them/assets/BhWysX6c.wav (прямой путь)
+❌ /main/pp10/us-them/assets/178b8e71.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/178b8e71.png (через /assets/)
+❌ /main/pp10/us-them/assets/71fc2a99.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/71fc2a99.png (через /assets/)
+❌ /main/pp10/us-them/assets/DLGomgNm.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/DLGomgNm.png (через /assets/)
+❌ /main/pp10/us-them/assets/B8C13_5i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/B8C13_5i.png (через /assets/)
+❌ /main/pp10/us-them/assets/DaAsZ-1o.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/DaAsZ-1o.png (через /assets/)
+❌ /main/pp10/us-them/assets/C0nA0hrp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/C0nA0hrp.png (через /assets/)
+❌ /main/pp10/us-them/assets/_LZDgMYc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/_LZDgMYc.png (через /assets/)
+❌ /main/pp10/us-them/assets/Bwlnl62i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/Bwlnl62i.png (через /assets/)
+❌ /main/pp10/us-them/assets/DN8YV_ih.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/DN8YV_ih.png (через /assets/)
+❌ /main/pp10/us-them/assets/Dv-2T4fF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/Dv-2T4fF.png (через /assets/)
+❌ /main/pp10/us-them/assets/97266b34.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/97266b34.svg (через /assets/)
+❌ /main/pp10/us-them/assets/CMXSApzY.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/CMXSApzY.svg (через /assets/)
+❌ /main/pp10/us-them/assets/DSVg25NV.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/DSVg25NV.png (через /assets/)
+❌ /main/pp10/us-them/assets/8a468cd2.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/8a468cd2.svg (через /assets/)
+❌ /main/pp10/us-them/assets/DfX1MdQu.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/DfX1MdQu.png (через /assets/)
+❌ /main/pp10/us-them/assets/jcbyuj_4.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/jcbyuj_4.png (через /assets/)
+❌ /main/pp10/us-them/assets/Cq-0FY1f.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/Cq-0FY1f.png (через /assets/)
+❌ /main/pp10/us-them/assets/BySA9cZw.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/BySA9cZw.png (через /assets/)
+❌ /main/pp10/us-them/assets/DCyomAXW.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/DCyomAXW.png (через /assets/)
+❌ /main/pp10/us-them/assets/Bu2QgNUa.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/Bu2QgNUa.png (через /assets/)
+❌ /main/pp10/us-them/assets/CS7dBBGr.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/CS7dBBGr.png (через /assets/)
+❌ /main/pp10/us-them/assets/7O_UfX5O.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp10/us-them/assets/7O_UfX5O.png (через /assets/)
+Скачан: /main/pp10/us-them/assets/CjqFhc4u.woff (прямой путь)
+Скачан: /main/pp10/us-them/assets/vNN7BN3Q.woff (прямой путь)
+❌ ../assets/images/postgame/bg_blue.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/postgame/bg_blue.png (оба пути дали 404)
+❌ ../assets/images/postgame/bg_gray.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/postgame/bg_gray.png (оба пути дали 404)
+❌ ../assets/images/postgame/bg_green.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/postgame/bg_green.png (оба пути дали 404)
+❌ ../assets/images/postgame/bg_orange.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/postgame/bg_orange.png (оба пути дали 404)
+❌ ../assets/images/postgame/bg_pink.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/postgame/bg_pink.png (оба пути дали 404)
+❌ ../assets/images/postgame/bg_red.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/postgame/bg_red.png (оба пути дали 404)
+❌ ../assets/images/postgame/bg_teal.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/postgame/bg_teal.png (оба пути дали 404)
+❌ ../assets/images/postgame/bg_yellow.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/images/postgame/bg_yellow.png (оба пути дали 404)
+✅ Готово! Все ассеты скачаны.

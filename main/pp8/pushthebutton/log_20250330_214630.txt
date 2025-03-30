@@ -1,0 +1,8 @@
+🎮 Игра: pushthebutton, Пак: pp8
+==== Скачиваем script.js (без парсинга) ====
+Ошибка 404 при скачивании: https://jackbox.fun/main/pp8/pushthebutton/script.js
+==== Скачиваем style-0.css ====
+Ошибка 404 при скачивании: https://jackbox.fun/main/pp8/pushthebutton/assets/style-0.css
+==== Парсим ссылки из style-0.css ====
+Файл не найден: D:\Gamess\tv\jackboxfunfull\main\pp8\pushthebutton\assets\style-0.css
+⚠️ В CSS ничего не найдено.

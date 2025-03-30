@@ -1,0 +1,355 @@
+🎮 Игра: htmf, Пак: pp9
+==== Скачиваем script.js (без парсинга) ====
+Пропущен (уже есть): D:\Gamess\tv\jackboxfunfull\main\pp9\htmf\script.js
+==== Скачиваем style-0.css ====
+Пропущен (уже есть): D:\Gamess\tv\jackboxfunfull\main\pp9\htmf\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 74
+==== Скачиваем ассеты из CSS ====
+Пропущен (уже существует): hevletica_ed600.ttf
+Пропущен (уже существует): hevletica_ed900.ttf
+Пропущен (уже существует): hevletica_ed600it.ttf
+Пропущен (уже существует): hevletica_ed900it.ttf
+Пропущен (уже существует): CMUb-qOV.png
+Пропущен (уже существует): ca9dd108.png
+Пропущен (уже существует): bbb52a04.svg
+Пропущен (уже существует): 119e8125.png
+Пропущен (уже существует): DErNqLsl.png
+Пропущен (уже существует): _WuedCMZ.png
+Пропущен (уже существует): CkmDUoxR.png
+Пропущен (уже существует): DceQ0Wxt.png
+Пропущен (уже существует): Bi9MkGhZ.png
+Пропущен (уже существует): BAKT9pOJ.png
+Пропущен (уже существует): CCl-Eooz.png
+Пропущен (уже существует): tMWG7jrB.png
+Пропущен (уже существует): C08ICmr9.png
+Пропущен (уже существует): DOt9Jduf.png
+Пропущен (уже существует): ClvGdJoT.png
+Пропущен (уже существует): BU0sb9fw.png
+Пропущен (уже существует): fQqm5vB1.png
+Пропущен (уже существует): CGjiz9KE.png
+Пропущен (уже существует): B0c1xoTb.png
+Пропущен (уже существует): tUl5RtmW.png
+Пропущен (уже существует): 2S9L_Svw.png
+Пропущен (уже существует): BNBGym2a.png
+Пропущен (уже существует): D4gWWQeo.png
+Пропущен (уже существует): sZ7ZdfIT.png
+Пропущен (уже существует): CaRZjzJq.png
+Пропущен (уже существует): BZV-hXxl.png
+Пропущен (уже существует): BwZFyMyG.png
+Пропущен (уже существует): DM3GOwcH.png
+Пропущен (уже существует): BzlNtpr_.png
+Пропущен (уже существует): CoyjVDnc.png
+Пропущен (уже существует): e8312oJL.png
+Пропущен (уже существует): Mu-OK-P1.png
+Пропущен (уже существует): CycmydGp.png
+Пропущен (уже существует): FNNRfOeg.png
+Пропущен (уже существует): DoKsmYsV.png
+Пропущен (уже существует): CnzKn4e5.png
+Пропущен (уже существует): BbRzOfcF.png
+Пропущен (уже существует): o9ofsJ24.png
+Пропущен (уже существует): BNaZi09V.png
+Пропущен (уже существует): pTtNkuSn.png
+Пропущен (уже существует): x6gFOzCT.png
+Пропущен (уже существует): CwDLYfjZ.png
+Пропущен (уже существует): Bjj3luCm.png
+Пропущен (уже существует): DBNoLgi6.png
+Пропущен (уже существует): QYtFRlba.png
+Пропущен (уже существует): DYPN4GnS.png
+Пропущен (уже существует): WoAGAX8j.png
+Пропущен (уже существует): D-TTQXkV.png
+Пропущен (уже существует): DtfbQOYd.png
+Пропущен (уже существует): Bms4KTvB.png
+Пропущен (уже существует): K0PJOOnk.png
+Пропущен (уже существует): DYkiwTdS.png
+Пропущен (уже существует): CAPQ0Ksq.png
+Пропущен (уже существует): DvsmYUzO.png
+Пропущен (уже существует): D_paQXVy.png
+Пропущен (уже существует): DwXQMJJW.png
+Пропущен (уже существует): DJz8gCEV.png
+Пропущен (уже существует): 9pjnzMXk.png
+Пропущен (уже существует): TMm4cc5b.png
+Пропущен (уже существует): D6TvX2Yl.png
+Пропущен (уже существует): Frl0xsWU.png
+Пропущен (уже существует): UUrRLPEa.png
+Пропущен (уже существует): 1PW8i9O3.png
+Пропущен (уже существует): B6ih7UGj.png
+Пропущен (уже существует): 667Cmtrs.png
+Пропущен (уже существует): Bn3yxMgL.png
+Пропущен (уже существует): BQG05K8R.png
+Пропущен (уже существует): C9BjOda-.png
+Пропущен (уже существует): D2WVTADt.png
+Пропущен (уже существует): hrddKN5U.png
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 135
+==== Скачиваем ассеты из script.js ====
+Скачан: /main/pp9/htmf/assets/BhWysX6c.wav (прямой путь)
+❌ /main/pp9/htmf/assets/DLGomgNm.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DLGomgNm.png (через /assets/)
+❌ /main/pp9/htmf/assets/B8C13_5i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/B8C13_5i.png (через /assets/)
+❌ /main/pp9/htmf/assets/DaAsZ-1o.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DaAsZ-1o.png (через /assets/)
+❌ /main/pp9/htmf/assets/C0nA0hrp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/C0nA0hrp.png (через /assets/)
+❌ /main/pp9/htmf/assets/_LZDgMYc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/_LZDgMYc.png (через /assets/)
+❌ /main/pp9/htmf/assets/Bwlnl62i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Bwlnl62i.png (через /assets/)
+❌ /main/pp9/htmf/assets/DN8YV_ih.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DN8YV_ih.png (через /assets/)
+❌ /main/pp9/htmf/assets/Dv-2T4fF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Dv-2T4fF.png (через /assets/)
+❌ /main/pp9/htmf/assets/97266b34.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/97266b34.svg (через /assets/)
+❌ /main/pp9/htmf/assets/D7h0eWc4.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/D7h0eWc4.png (через /assets/)
+❌ /main/pp9/htmf/assets/C76ahqqr.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/C76ahqqr.png (через /assets/)
+❌ /main/pp9/htmf/assets/Bsqf7Q1l.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Bsqf7Q1l.png (через /assets/)
+❌ /main/pp9/htmf/assets/MAjrVMQ2.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/MAjrVMQ2.png (через /assets/)
+❌ /main/pp9/htmf/assets/B7T9bVDn.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/B7T9bVDn.png (через /assets/)
+❌ /main/pp9/htmf/assets/DvyuVsHy.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DvyuVsHy.png (через /assets/)
+❌ /main/pp9/htmf/assets/D-J1A07I.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/D-J1A07I.png (через /assets/)
+❌ /main/pp9/htmf/assets/_i002g90.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/_i002g90.png (через /assets/)
+❌ /main/pp9/htmf/assets/Dd1fv0oD.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Dd1fv0oD.png (через /assets/)
+❌ /main/pp9/htmf/assets/D3T_W3cz.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/D3T_W3cz.png (через /assets/)
+❌ /main/pp9/htmf/assets/BAy0FnHd.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/BAy0FnHd.png (через /assets/)
+❌ /main/pp9/htmf/assets/D_Txa2-y.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/D_Txa2-y.png (через /assets/)
+❌ /main/pp9/htmf/assets/CJzN2r6M.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CJzN2r6M.png (через /assets/)
+❌ /main/pp9/htmf/assets/CsGm_W4p.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CsGm_W4p.png (через /assets/)
+❌ /main/pp9/htmf/assets/DiTOGCnL.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DiTOGCnL.png (через /assets/)
+❌ /main/pp9/htmf/assets/Ce8qCP3b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Ce8qCP3b.png (через /assets/)
+❌ /main/pp9/htmf/assets/BSzJunwA.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/BSzJunwA.png (через /assets/)
+❌ /main/pp9/htmf/assets/BwaocF7-.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/BwaocF7-.png (через /assets/)
+❌ /main/pp9/htmf/assets/Q4kiF_43.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Q4kiF_43.png (через /assets/)
+❌ /main/pp9/htmf/assets/CQo6t9US.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CQo6t9US.png (через /assets/)
+❌ /main/pp9/htmf/assets/COHt9oPC.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/COHt9oPC.png (через /assets/)
+❌ /main/pp9/htmf/assets/CYIa2jIf.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CYIa2jIf.png (через /assets/)
+❌ /main/pp9/htmf/assets/BPF_LhGZ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/BPF_LhGZ.png (через /assets/)
+❌ /main/pp9/htmf/assets/_xV1TFSN.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/_xV1TFSN.png (через /assets/)
+❌ /main/pp9/htmf/assets/DVz9UAVG.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DVz9UAVG.png (через /assets/)
+❌ /main/pp9/htmf/assets/BypztGIb.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/BypztGIb.png (через /assets/)
+❌ /main/pp9/htmf/assets/CJabwtaq.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CJabwtaq.png (через /assets/)
+❌ /main/pp9/htmf/assets/Lhpbf9TL.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Lhpbf9TL.png (через /assets/)
+❌ /main/pp9/htmf/assets/JWCmNHP3.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/JWCmNHP3.png (через /assets/)
+❌ /main/pp9/htmf/assets/CcPB5T5u.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CcPB5T5u.png (через /assets/)
+❌ /main/pp9/htmf/assets/_6FJkFtf.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/_6FJkFtf.png (через /assets/)
+❌ /main/pp9/htmf/assets/Bm1FESfx.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Bm1FESfx.png (через /assets/)
+❌ /main/pp9/htmf/assets/P3P86rdH.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/P3P86rdH.png (через /assets/)
+❌ /main/pp9/htmf/assets/CFpqOv1b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CFpqOv1b.png (через /assets/)
+❌ /main/pp9/htmf/assets/C70S-_oc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/C70S-_oc.png (через /assets/)
+❌ /main/pp9/htmf/assets/DDK-WP30.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DDK-WP30.png (через /assets/)
+❌ /main/pp9/htmf/assets/gedvI9aU.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/gedvI9aU.png (через /assets/)
+❌ /main/pp9/htmf/assets/CKsxZnbJ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CKsxZnbJ.png (через /assets/)
+❌ /main/pp9/htmf/assets/BBmCnv97.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/BBmCnv97.png (через /assets/)
+❌ /main/pp9/htmf/assets/B8qezbJh.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/B8qezbJh.png (через /assets/)
+❌ /main/pp9/htmf/assets/DtX85QFV.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DtX85QFV.png (через /assets/)
+❌ ../assets/characters/blue/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/blue/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/blue/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/blue/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/blue/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/blue/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/brown/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/brown/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/brown/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/brown/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/brown/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/brown/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/cyan/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/cyan/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/cyan/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/cyan/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/cyan/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/cyan/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/gene/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/gene/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/gene/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/gene/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/gene/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/gene/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/gray/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/gray/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/gray/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/gray/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/gray/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/gray/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/green/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/green/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/green/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/green/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/green/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/green/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/magenta/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/magenta/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/magenta/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/magenta/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/magenta/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/magenta/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/orange/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/orange/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/orange/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/orange/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/orange/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/orange/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/pink/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/pink/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/pink/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/pink/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/pink/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/pink/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/purple/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/purple/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/purple/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/purple/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/purple/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/purple/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/red/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/red/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/red/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/red/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/red/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/red/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/teal/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/teal/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/teal/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/teal/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/teal/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/teal/envelope/open.png (оба пути дали 404)
+❌ ../assets/characters/yellow/envelope/empty.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/yellow/envelope/empty.png (оба пути дали 404)
+❌ ../assets/characters/yellow/envelope/new.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/yellow/envelope/new.png (оба пути дали 404)
+❌ ../assets/characters/yellow/envelope/open.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/yellow/envelope/open.png (оба пути дали 404)
+❌ /main/pp9/htmf/assets/cf54e99e.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/cf54e99e.png (через /assets/)
+❌ /main/pp9/htmf/assets/3aec4c08.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/3aec4c08.png (через /assets/)
+❌ /main/pp9/htmf/assets/556d093f.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/556d093f.svg (через /assets/)
+❌ /main/pp9/htmf/assets/32107a7f.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/32107a7f.svg (через /assets/)
+❌ /main/pp9/htmf/assets/94d408a1.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/94d408a1.svg (через /assets/)
+❌ /main/pp9/htmf/assets/1203a7b8.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/1203a7b8.svg (через /assets/)
+❌ /main/pp9/htmf/assets/3ec168e6.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/3ec168e6.svg (через /assets/)
+❌ /main/pp9/htmf/assets/9200ad5f.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/9200ad5f.svg (через /assets/)
+❌ /main/pp9/htmf/assets/cb575170.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/cb575170.svg (через /assets/)
+❌ /main/pp9/htmf/assets/5537928e.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/5537928e.svg (через /assets/)
+❌ /main/pp9/htmf/assets/37611514.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/37611514.svg (через /assets/)
+❌ /main/pp9/htmf/assets/9429de5a.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/9429de5a.svg (через /assets/)
+❌ /main/pp9/htmf/assets/f459fcec.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/f459fcec.svg (через /assets/)
+❌ /main/pp9/htmf/assets/b8876191.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/b8876191.svg (через /assets/)
+❌ ../assets/characters/blue/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/blue/door.svg (оба пути дали 404)
+❌ ../assets/characters/brown/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/brown/door.svg (оба пути дали 404)
+❌ ../assets/characters/cyan/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/cyan/door.svg (оба пути дали 404)
+❌ ../assets/characters/gene/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/gene/door.svg (оба пути дали 404)
+❌ ../assets/characters/gray/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/gray/door.svg (оба пути дали 404)
+❌ ../assets/characters/green/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/green/door.svg (оба пути дали 404)
+❌ ../assets/characters/magenta/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/magenta/door.svg (оба пути дали 404)
+❌ ../assets/characters/orange/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/orange/door.svg (оба пути дали 404)
+❌ ../assets/characters/pink/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/pink/door.svg (оба пути дали 404)
+❌ ../assets/characters/purple/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/purple/door.svg (оба пути дали 404)
+❌ ../assets/characters/red/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/red/door.svg (оба пути дали 404)
+❌ ../assets/characters/teal/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/teal/door.svg (оба пути дали 404)
+❌ ../assets/characters/yellow/door.svg не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/yellow/door.svg (оба пути дали 404)
+❌ /main/pp9/htmf/assets/CoNyc2Hh.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CoNyc2Hh.png (через /assets/)
+❌ /main/pp9/htmf/assets/DKT-AYJB.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DKT-AYJB.png (через /assets/)
+❌ /main/pp9/htmf/assets/Bw1xx9uy.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Bw1xx9uy.png (через /assets/)
+❌ /main/pp9/htmf/assets/BQPcWjkF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/BQPcWjkF.png (через /assets/)
+❌ /main/pp9/htmf/assets/zT7L35r4.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/zT7L35r4.png (через /assets/)
+❌ /main/pp9/htmf/assets/DGED070W.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DGED070W.png (через /assets/)
+❌ /main/pp9/htmf/assets/C7gN4kXt.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/C7gN4kXt.png (через /assets/)
+❌ /main/pp9/htmf/assets/Ddixq6b-.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/Ddixq6b-.png (через /assets/)
+❌ /main/pp9/htmf/assets/VR8YE_ke.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/VR8YE_ke.png (через /assets/)
+❌ /main/pp9/htmf/assets/CBdVrgwL.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CBdVrgwL.png (через /assets/)
+❌ /main/pp9/htmf/assets/CxWbc6J6.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/CxWbc6J6.png (через /assets/)
+❌ /main/pp9/htmf/assets/C0-hRom9.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/C0-hRom9.png (через /assets/)
+❌ /main/pp9/htmf/assets/DxtVIPTS.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/htmf/assets/DxtVIPTS.png (через /assets/)
+❌ ../assets/characters/audience/connection.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/audience/connection.png (оба пути дали 404)
+❌ ../assets/characters/audience/finale.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/audience/finale.png (оба пути дали 404)
+❌ ../assets/characters/audience/firestarter.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/audience/firestarter.png (оба пути дали 404)
+❌ ../assets/characters/audience/intro.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/audience/intro.png (оба пути дали 404)
+❌ ../assets/characters/audience/quickie.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/characters/audience/quickie.png (оба пути дали 404)
+✅ Готово! Все ассеты скачаны.

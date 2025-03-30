@@ -1,0 +1,198 @@
+🎮 Игра: drawful3, Пак: ppad
+==== Скачиваем script.js (без парсинга) ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\ppad\drawful3\script.js
+==== Скачиваем style-0.css ====
+Скачан: D:\Gamess\tv\jackboxfunfull\main\ppad\drawful3\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 8
+==== Скачиваем ассеты из CSS ====
+❌ CMUb-qOV.png не найден по прямому пути, пробуем через /assets/
+Скачан: CMUb-qOV.png (через /assets/)
+❌ ca9dd108.png не найден по прямому пути, пробуем через /assets/
+Скачан: ca9dd108.png (через /assets/)
+❌ bbb52a04.svg не найден по прямому пути, пробуем через /assets/
+Скачан: bbb52a04.svg (через /assets/)
+❌ 119e8125.png не найден по прямому пути, пробуем через /assets/
+Скачан: 119e8125.png (через /assets/)
+Скачан: B8C8i_h7.woff2 (прямой путь)
+❌ B99iKOvf.png не найден по прямому пути, пробуем через /assets/
+Скачан: B99iKOvf.png (через /assets/)
+❌ a971ed75.png не найден по прямому пути, пробуем через /assets/
+Скачан: a971ed75.png (через /assets/)
+❌ f8c4ea4a.svg не найден по прямому пути, пробуем через /assets/
+Скачан: f8c4ea4a.svg (через /assets/)
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 86
+==== Скачиваем ассеты из script.js ====
+Скачан: /main/ppad/drawful3/assets/BhWysX6c.wav (прямой путь)
+❌ /main/ppad/drawful3/assets/DLGomgNm.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/DLGomgNm.png (через /assets/)
+❌ /main/ppad/drawful3/assets/B8C13_5i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/B8C13_5i.png (через /assets/)
+❌ /main/ppad/drawful3/assets/DaAsZ-1o.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/DaAsZ-1o.png (через /assets/)
+❌ /main/ppad/drawful3/assets/C0nA0hrp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/C0nA0hrp.png (через /assets/)
+❌ /main/ppad/drawful3/assets/_LZDgMYc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/_LZDgMYc.png (через /assets/)
+❌ /main/ppad/drawful3/assets/Bwlnl62i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/Bwlnl62i.png (через /assets/)
+❌ /main/ppad/drawful3/assets/DN8YV_ih.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/DN8YV_ih.png (через /assets/)
+❌ /main/ppad/drawful3/assets/Dv-2T4fF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/Dv-2T4fF.png (через /assets/)
+❌ /main/ppad/drawful3/assets/97266b34.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/97266b34.svg (через /assets/)
+❌ /main/ppad/drawful3/assets/U8HCI30M.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/U8HCI30M.png (через /assets/)
+❌ /main/ppad/drawful3/assets/DKTQEj61.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/DKTQEj61.png (через /assets/)
+❌ /main/ppad/drawful3/assets/SB9FfSpa.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/SB9FfSpa.png (через /assets/)
+❌ /main/ppad/drawful3/assets/B4Gz0wBn.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/B4Gz0wBn.png (через /assets/)
+❌ /main/ppad/drawful3/assets/Dq-VJc-Y.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/Dq-VJc-Y.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CkvJjtAL.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CkvJjtAL.png (через /assets/)
+❌ /main/ppad/drawful3/assets/B3qGoktZ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/B3qGoktZ.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CG4dDNY2.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CG4dDNY2.png (через /assets/)
+❌ /main/ppad/drawful3/assets/BNYUe1VZ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BNYUe1VZ.png (через /assets/)
+❌ /main/ppad/drawful3/assets/BsDh24uF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BsDh24uF.png (через /assets/)
+❌ /main/ppad/drawful3/assets/BTKHEd5n.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BTKHEd5n.png (через /assets/)
+❌ /main/ppad/drawful3/assets/wZTCkbyL.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/wZTCkbyL.png (через /assets/)
+❌ /main/ppad/drawful3/assets/BL2HlIqC.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BL2HlIqC.png (через /assets/)
+❌ /main/ppad/drawful3/assets/DG01MLKy.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/DG01MLKy.png (через /assets/)
+❌ /main/ppad/drawful3/assets/Cyh3YEse.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/Cyh3YEse.png (через /assets/)
+❌ /main/ppad/drawful3/assets/BgspNlgv.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BgspNlgv.png (через /assets/)
+❌ /main/ppad/drawful3/assets/D0FcWONS.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/D0FcWONS.png (через /assets/)
+❌ /main/ppad/drawful3/assets/DktWB89G.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/DktWB89G.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CfWTx56v.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CfWTx56v.png (через /assets/)
+❌ /main/ppad/drawful3/assets/B_YHaA9b.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/B_YHaA9b.png (через /assets/)
+❌ /main/ppad/drawful3/assets/BuNjR9ok.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BuNjR9ok.png (через /assets/)
+❌ ../assets/shareables/de/standard.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/de/standard.png (оба пути дали 404)
+❌ ../assets/shareables/en/standard.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/en/standard.png (оба пути дали 404)
+❌ ../assets/shareables/es-XL/standard.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es-XL/standard.png (оба пути дали 404)
+❌ ../assets/shareables/es/standard.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es/standard.png (оба пути дали 404)
+❌ ../assets/shareables/fr/standard.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/fr/standard.png (оба пути дали 404)
+❌ ../assets/shareables/it/standard.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/it/standard.png (оба пути дали 404)
+❌ ../assets/shareables/pt-BR/standard.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/pt-BR/standard.png (оба пути дали 404)
+❌ ../assets/shareables/de/most-likes.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/de/most-likes.png (оба пути дали 404)
+❌ ../assets/shareables/en/most-likes.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/en/most-likes.png (оба пути дали 404)
+❌ ../assets/shareables/es-XL/most-likes.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es-XL/most-likes.png (оба пути дали 404)
+❌ ../assets/shareables/es/most-likes.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es/most-likes.png (оба пути дали 404)
+❌ ../assets/shareables/fr/most-likes.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/fr/most-likes.png (оба пути дали 404)
+❌ ../assets/shareables/it/most-likes.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/it/most-likes.png (оба пути дали 404)
+❌ ../assets/shareables/pt-BR/most-likes.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/pt-BR/most-likes.png (оба пути дали 404)
+❌ ../assets/shareables/de/winner.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/de/winner.png (оба пути дали 404)
+❌ ../assets/shareables/en/winner.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/en/winner.png (оба пути дали 404)
+❌ ../assets/shareables/es-XL/winner.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es-XL/winner.png (оба пути дали 404)
+❌ ../assets/shareables/es/winner.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/es/winner.png (оба пути дали 404)
+❌ ../assets/shareables/fr/winner.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/fr/winner.png (оба пути дали 404)
+❌ ../assets/shareables/it/winner.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/it/winner.png (оба пути дали 404)
+❌ ../assets/shareables/pt-BR/winner.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/shareables/pt-BR/winner.png (оба пути дали 404)
+❌ dirty-drawful.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: dirty-drawful.png (оба пути дали 404)
+❌ /main/ppad/drawful3/assets/C_hL_aF6.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/C_hL_aF6.png (через /assets/)
+❌ /main/ppad/drawful3/assets/BhG3_jnX.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BhG3_jnX.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CMa-uL6L.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CMa-uL6L.png (через /assets/)
+❌ /main/ppad/drawful3/assets/bHZRQGV5.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/bHZRQGV5.png (через /assets/)
+❌ /main/ppad/drawful3/assets/D9s7vt5t.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/D9s7vt5t.png (через /assets/)
+❌ /main/ppad/drawful3/assets/BZEjfNIn.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BZEjfNIn.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CPTrVQ1U.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CPTrVQ1U.png (через /assets/)
+❌ /main/ppad/drawful3/assets/jwpGq9D2.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/jwpGq9D2.png (через /assets/)
+❌ /main/ppad/drawful3/assets/DeYr38WE.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/DeYr38WE.png (через /assets/)
+❌ /main/ppad/drawful3/assets/C_JkudAQ.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/C_JkudAQ.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CNmSJ7bN.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CNmSJ7bN.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CbTCsTAf.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CbTCsTAf.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CNdesv-Z.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CNdesv-Z.png (через /assets/)
+❌ /main/ppad/drawful3/assets/DLYQjDGy.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/DLYQjDGy.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CYo51vcF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CYo51vcF.png (через /assets/)
+❌ /main/ppad/drawful3/assets/CmtponFg.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/CmtponFg.png (через /assets/)
+❌ /main/ppad/drawful3/assets/k5e1RK8R.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/k5e1RK8R.png (через /assets/)
+❌ ../assets/emotes/de/nice.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/de/nice.png (оба пути дали 404)
+❌ ../assets/emotes/en/nice.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/en/nice.png (оба пути дали 404)
+❌ ../assets/emotes/es-XL/nice.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/es-XL/nice.png (оба пути дали 404)
+❌ ../assets/emotes/es/nice.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/es/nice.png (оба пути дали 404)
+❌ ../assets/emotes/fr/nice.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/fr/nice.png (оба пути дали 404)
+❌ ../assets/emotes/it/nice.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/it/nice.png (оба пути дали 404)
+❌ ../assets/emotes/pt-BR/nice.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/pt-BR/nice.png (оба пути дали 404)
+❌ ../assets/emotes/de/no.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/de/no.png (оба пути дали 404)
+❌ ../assets/emotes/en/no.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/en/no.png (оба пути дали 404)
+❌ ../assets/emotes/es-XL/no.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/es-XL/no.png (оба пути дали 404)
+❌ ../assets/emotes/es/no.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/es/no.png (оба пути дали 404)
+❌ ../assets/emotes/fr/no.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/fr/no.png (оба пути дали 404)
+❌ ../assets/emotes/it/no.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/it/no.png (оба пути дали 404)
+❌ ../assets/emotes/pt-BR/no.png не найден по прямому пути, пробуем через /assets/
+❌ Не найден: ../assets/emotes/pt-BR/no.png (оба пути дали 404)
+❌ /main/ppad/drawful3/assets/BVNyD0Nd.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/BVNyD0Nd.png (через /assets/)
+❌ /main/ppad/drawful3/assets/l4F_Tur8.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/ppad/drawful3/assets/l4F_Tur8.png (через /assets/)
+✅ Готово! Все ассеты скачаны.

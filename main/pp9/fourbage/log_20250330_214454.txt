@@ -1,0 +1,81 @@
+🎮 Игра: fourbage, Пак: pp9
+==== Скачиваем script.js (без парсинга) ====
+Пропущен (уже есть): D:\Gamess\tv\jackboxfunfull\main\pp9\fourbage\script.js
+==== Скачиваем style-0.css ====
+Пропущен (уже есть): D:\Gamess\tv\jackboxfunfull\main\pp9\fourbage\assets\style-0.css
+==== Парсим ссылки из style-0.css ====
+🔗 Найдено ссылок в CSS: 14
+==== Скачиваем ассеты из CSS ====
+Пропущен (уже существует): CMUb-qOV.png
+Пропущен (уже существует): ca9dd108.png
+Пропущен (уже существует): bbb52a04.svg
+Пропущен (уже существует): 119e8125.png
+Пропущен (уже существует): Dsxe4ZGH.png
+Пропущен (уже существует): DQXD2gWV.png
+Пропущен (уже существует): BULJueA_.png
+Пропущен (уже существует): C6DvXa4C.png
+Пропущен (уже существует): DBgpiw-V.png
+Пропущен (уже существует): BJvCZleb.woff2
+Пропущен (уже существует): BJmIJuPc.woff2
+Пропущен (уже существует): ZamYszo_.jpeg
+Пропущен (уже существует): DsFSwyj2.jpeg
+Пропущен (уже существует): Fm3m6V5r.jpeg
+==== Парсим ссылки из script.js ====
+🔗 Найдено ссылок в JS: 28
+==== Скачиваем ассеты из script.js ====
+Скачан: /main/pp9/fourbage/assets/BhWysX6c.wav (прямой путь)
+❌ /main/pp9/fourbage/assets/DLGomgNm.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/DLGomgNm.png (через /assets/)
+❌ /main/pp9/fourbage/assets/B8C13_5i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/B8C13_5i.png (через /assets/)
+❌ /main/pp9/fourbage/assets/DaAsZ-1o.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/DaAsZ-1o.png (через /assets/)
+❌ /main/pp9/fourbage/assets/C0nA0hrp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/C0nA0hrp.png (через /assets/)
+❌ /main/pp9/fourbage/assets/_LZDgMYc.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/_LZDgMYc.png (через /assets/)
+❌ /main/pp9/fourbage/assets/Bwlnl62i.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/Bwlnl62i.png (через /assets/)
+❌ /main/pp9/fourbage/assets/DN8YV_ih.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/DN8YV_ih.png (через /assets/)
+❌ /main/pp9/fourbage/assets/Dv-2T4fF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/Dv-2T4fF.png (через /assets/)
+❌ /main/pp9/fourbage/assets/97266b34.svg не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/97266b34.svg (через /assets/)
+❌ /main/pp9/fourbage/assets/DJZSHhkr.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/DJZSHhkr.png (через /assets/)
+❌ /main/pp9/fourbage/assets/C8Gj0DFW.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/C8Gj0DFW.png (через /assets/)
+❌ /main/pp9/fourbage/assets/D3Abrb-Z.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/D3Abrb-Z.png (через /assets/)
+❌ /main/pp9/fourbage/assets/UV1_BtKF.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/UV1_BtKF.png (через /assets/)
+❌ /main/pp9/fourbage/assets/fKjQs0py.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/fKjQs0py.png (через /assets/)
+❌ /main/pp9/fourbage/assets/DbYCX3zM.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/DbYCX3zM.png (через /assets/)
+❌ /main/pp9/fourbage/assets/zKc4Ondm.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/zKc4Ondm.png (через /assets/)
+❌ /main/pp9/fourbage/assets/C7vVzzKz.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/C7vVzzKz.png (через /assets/)
+❌ /main/pp9/fourbage/assets/NenfmMaA.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/NenfmMaA.png (через /assets/)
+❌ /main/pp9/fourbage/assets/DbR8n_uh.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/DbR8n_uh.png (через /assets/)
+❌ /main/pp9/fourbage/assets/CPN1EICp.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/CPN1EICp.png (через /assets/)
+❌ /main/pp9/fourbage/assets/BDJlb5ff.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/BDJlb5ff.png (через /assets/)
+❌ /main/pp9/fourbage/assets/D5xRkQ4C.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/D5xRkQ4C.png (через /assets/)
+❌ /main/pp9/fourbage/assets/L6G0el6C.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/L6G0el6C.png (через /assets/)
+❌ /main/pp9/fourbage/assets/BI4kGgZ3.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/BI4kGgZ3.png (через /assets/)
+❌ /main/pp9/fourbage/assets/DbjeLKRN.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/DbjeLKRN.png (через /assets/)
+❌ /main/pp9/fourbage/assets/CEcPjjiT.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/CEcPjjiT.png (через /assets/)
+❌ /main/pp9/fourbage/assets/CoIbkx-0.png не найден по прямому пути, пробуем через /assets/
+Скачан: /main/pp9/fourbage/assets/CoIbkx-0.png (через /assets/)
+✅ Готово! Все ассеты скачаны.

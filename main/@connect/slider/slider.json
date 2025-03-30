@@ -1,0 +1,41 @@
+{
+    "bannerAds": [
+        {
+            "text": "Наш сайт",
+            "src": "main/@connect/slider/invite_portal.png",
+            "href": "https://jackboxgames.ru/"
+        },
+        {
+            "text": "Мы в Telegram!",
+            "src": "main/@connect/slider/invite_tg.png",
+            "href": "https://t.me/s/jackboxru"
+        },
+        {
+            "text": "Нужна помощь?",
+            "src": "main/@connect/slider/help.png",
+            "href": "https://jackboxgames.ru/faq/"
+        },
+        {
+            "text": "Подписывайся в VK!",
+            "src": "main/@connect/slider/invite_vk.png",
+            "href": "https://vk.com/jackboxru"
+        },
+        {
+            "text": "Донаты",
+            "src": "main/@connect/slider/donate.png",
+            "href": "https://jackboxgames.ru/donate/"
+        },
+        {
+            "start": "2025-03-13",
+            "end": "2025-03-20",
+            "text": "Cкидки в Steam",
+            "src": "main/@connect/slider/sale_steam.png",
+            "href": "https://vk.com/wall-147727753_15718"
+        },
+        {
+            "text": "Поддержи перевод!",
+            "src": "main/@connect/slider/jpp9.png",
+            "href": "https://boosty.to/wifhat"
+        }
+    ]
+}
